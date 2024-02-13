@@ -48,8 +48,8 @@ Docker version - 24.0.7
 
 **Run locally:**
 ```bash
-git clone https://github.com/devzero-inc/samples.git
-cd samples/photo-upload-app
+git clone https://github.com/devzero-inc/photo-upload-app.git
+cd photo-upload-app
 docker compose up -d
 ```
 App will be running on ```PORT:3000``` -> [http://localhost:3000/](http://localhost:3000/)
