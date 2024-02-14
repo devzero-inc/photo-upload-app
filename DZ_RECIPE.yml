@@ -21,3 +21,9 @@ compute:
 network:
   category: container
   network_name: default
+description: A streamlined and user-friendly platform designed for the effortless uploading and management of photos
+display_name: Photo Upload Directory
+tags:
+- PostgreSQL
+- Next.js
+- Tailwind CSS
