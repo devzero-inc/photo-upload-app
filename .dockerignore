@@ -2,3 +2,9 @@
 Dockerfile
 .dockerignore
 docker-compose.yml
+./__tests__
+./.github
+.eslintrc.json
+.gitignore
+DZ_RECIPE.yml
+jest.config.js
